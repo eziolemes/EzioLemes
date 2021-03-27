@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá pessoal 👋
+Meu nome é Ézio, sou programador Java, apaixonado por tecnologia e como ela tem ajudado o mundo evoluir.
+
+[![Twitter Badge](https://img.shields.io/badge/-@eziolemes-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/eziolemes)](https://twitter.com/eziolemes) [![Linkedin Badge](https://img.shields.io/badge/-Ézio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezio-lemes/)](https://www.linkedin.com/in/ezio-lemes/) 
+[![Gmail Badge](https://img.shields.io/badge/-eziolemes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eziolemes@gmail.com)](mailto:eziolemes@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
+(https://www.instagram.com/eziolemes/)
 
 <!--
 **eziolemes/EzioLemes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
