@@ -7,6 +7,8 @@ Meu nome é Ézio, sou programador Java, apaixonado por tecnologia e como ela te
 [![Linkedin Badge](https://img.shields.io/badge/-Ézio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezio-lemes/)](https://www.linkedin.com/in/ezio-lemes/) 
 [![Gmail Badge](https://img.shields.io/badge/-eziolemes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eziolemes@gmail.com)](mailto:eziolemes@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/eziolemes/)
+[![Github Badge](https://img.shields.io/badge/Portfólio-100000?style=flat-square&logo=github&logoColor=white)](https://eziolemes.github.io/)
+
 
 <!--
 **eziolemes/EzioLemes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
