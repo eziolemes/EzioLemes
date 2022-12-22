@@ -1,5 +1,5 @@
 ### Olá pessoal 👋
-Meu nome é Ézio, sou programador Java, apaixonado por tecnologia e como ela tem ajudado o mundo evoluir.
+Meu nome é Ézio, sou programador, apaixonado por tecnologia e como ela tem ajudado o mundo evoluir.
 
 <i>"Ninguém é tão grande que não possa aprender, nem tão pequeno que não possa ensinar." - Esopo </i>
 
